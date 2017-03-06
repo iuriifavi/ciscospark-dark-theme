@@ -1,0 +1,117 @@
+#squared,
+#wrapper {
+    background-color: black;
+}
+.convo-filter-menu-list-header {
+    border: 3px solid transparent
+}
+.teams .teamsSection {
+    background-color: black !important;
+}
+#activities .activity-item .content .activity-text {
+    color: white;
+}
+#activities .activity-item.me .content .activity-text {
+    color: lightgray !important;
+}
+#activities .activity-item .content p.meta {
+    color: yellow;
+}
+#activities .activity-item a {
+    color: greenyellow border-radius: 5px;
+}
+.icon-cisco-message {
+    color: dimgray !important;
+}
+.separator--blue .separator-text:after,
+.separator--blue .separator-text:before {
+    background-color: greenyellow;
+}
+body.roskilde #activities .activity-item:hover:not(.system-message) {
+    background: rgba(255, 255, 1, .2) !important;
+    border-radius: 5px;
+}
+.activity-text pre {
+    background-color: dimgray
+}
+.activity-text code {
+    background-color: dimgray
+}
+.room-actions-menu-icon {
+    background: transparent;
+}
+.banner-blue {
+    background-color: yellow;
+}
+.roomListItem.isActive {
+    background-color: limegreen;
+}
+.roomListItem:hover {
+    background-color: rgba(255, 255, 1, .2);
+}
+.listItem:hover {
+    background-color: rgba(255, 255, 1, .2) !important;
+    color: white !important;
+}
+.react-mentions .control.textarea {
+    background-color: dimgray;
+}
+#convos {
+    background-color: transparent;
+}
+.navigation-bar {
+    background-color: transparent;
+}
+.roomListItem-description {
+    color: white;
+}
+.roomListItem-title-text {
+    color: yellow;
+}
+#conversation {
+    background: hsla(0, 0%, 100%, .1)
+}
+.teamDetails {
+    background: hsla(0, 0%, 100%, .1)
+}
+.convo-filter-menu-list-header {
+    background: hsla(0, 0%, 100%, .1)
+}
+.iconButton--light {
+    background-color: transparent;
+}
+.listItemWrapper {
+    color: white;
+}
+.chip--dark {
+    background-color: transparent;
+    color: yellow;
+    border: 1px solid yellow;
+}
+.chip-icon {
+    background-color: rgba(255, 255, 255, .2);
+}
+.convo-filter-menu {
+    color: white;
+}
+.navigation-bar .listItem.isActive,
+.navigation-bar .listItem.isActive .listItem-content .listItem-primaryText {
+    color: yellow;
+}
+.navigation-bar .listItem.isActive:hover,
+.navigation-bar .listItem.isActive:hover .listItem-content .listItem-primaryText,
+.navigation-bar .listItem:hover {
+    background-color: transparent;
+}
+.dockedSearch.idle:after {
+    opacity: 0.9 background-color: black;
+}
+.teamProfile-bottom {
+    background-color: #222
+}
+.dial-out-container {
+    background-color: #222
+}
+.teamProfile-top {
+    background-color: rgba(255, 255, 1, .2) !important;
+}
