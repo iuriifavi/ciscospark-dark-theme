@@ -18,7 +18,8 @@
     color: yellow;
 }
 #activities .activity-item a {
-    color: greenyellow border-radius: 5px;
+    color: greenyellow;
+    border-radius: 5px;
 }
 .icon-cisco-message {
     color: dimgray !important;
