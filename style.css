@@ -18,7 +18,8 @@
     color: yellow;
 }
 #activities .activity-item a {
-    color: greenyellow border-radius: 5px;
+    color: greenyellow;
+    border-radius: 5px;
 }
 .icon-cisco-message {
     color: dimgray !important;
@@ -104,7 +105,8 @@ body.roskilde #activities .activity-item:hover:not(.system-message) {
     background-color: transparent;
 }
 .dockedSearch.idle:after {
-    opacity: 0.9 background-color: black;
+    opacity: 0.9;
+    background-color: black;
 }
 .teamProfile-bottom {
     background-color: #222
