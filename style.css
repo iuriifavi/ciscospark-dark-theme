@@ -8,6 +8,22 @@
 .teams .teamsSection {
     background-color: black !important;
 }
+.control.textarea {
+  background-color: black !important;
+}
+
+#message-composer { 
+   color: white !important;
+}
+
+#search-composer { 
+   color: white !important;
+}
+
+.activities-meeting-container {
+  background-color: black !important;
+}
+
 #activities .activity-item .content .activity-text {
     color: white;
 }
